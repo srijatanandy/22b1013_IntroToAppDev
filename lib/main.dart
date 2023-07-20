@@ -101,7 +101,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Budget Tracker")),gir
+      appBar: AppBar(title: Text("Budget Tracker")),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
